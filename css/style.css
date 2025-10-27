@@ -1,0 +1,4 @@
+/* This project uses tailwind css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
